@@ -1,5 +1,6 @@
 .venv/
 output/*.mp4
+output/*.png
 __pycache__/
 *.pyc
 secrets/
