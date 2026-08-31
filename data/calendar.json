@@ -1,0 +1,9 @@
+{
+  "monday": "number_find",
+  "tuesday": "kanji_find",
+  "wednesday": "number_find",
+  "thursday": "count_how_many",
+  "friday": "number_find",
+  "saturday": "two_stage_quiz",
+  "sunday": null
+}
